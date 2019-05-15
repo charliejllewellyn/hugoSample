@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
   description = "Welcome to my website"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = ""
+  cover = "/img/darius-soodmand-116253.jpg"
   author = "CL"
   authorlocation = "Earth, Milky Way Galaxy"
   authorwebsite = ""
